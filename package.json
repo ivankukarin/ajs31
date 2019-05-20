@@ -1,0 +1,29 @@
+{
+  "name": "ajs_modules",
+  "version": "1.0.0",
+  "description": "module webpack",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-loader": "^8.0.6",
+    "webpack": "^4.32.0",
+    "webpack-cli": "^3.3.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivankukarin/ajs31.git"
+  },
+  "keywords": [
+    "module"
+  ],
+  "author": "ivankukarin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivankukarin/ajs31/issues"
+  },
+  "homepage": "https://github.com/ivankukarin/ajs31#readme"
+}
